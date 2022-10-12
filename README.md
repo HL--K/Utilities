@@ -12,4 +12,4 @@ To add html tags to sub-title lines in a .srt file to change font size, color, e
    
    &ensp;&thinsp;`<font face="Helvetica" size="80" color="#FFFFFF">line of the subtitle</font>`
    
-This is also useful when using Handbrake to embed sub-titles into a video file.   
+This is also useful when using Handbrake to embed sub-titles into a video file. (You may need to upgrade Handbrake to the latest version.)  
